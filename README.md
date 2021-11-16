@@ -1,4 +1,4 @@
 # Mail2Mail
-Create, share, and discover collections of rare or noteworthy possessions<br/>
+Get notified via email when your mail or packages arrive<br/>
 - Implemented using HTML, CSS, PHP, and JavaScript
-- Utilized PHPMailer (public respository) for email features
+- Utilized PHPMailer (public repository) for email features
