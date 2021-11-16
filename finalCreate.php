@@ -10,8 +10,8 @@
   $mail->Host = 'smtp.gmail.com';
   $mail->Port = 587;
   $mail->isHTML();
-  $mail->Username = 'mailtoemailku@gmail.com';
-  $mail->Password = '36859849503a';
+  $mail->Username = 'user2123@gmail.com';
+  $mail->Password = '234324234324';
   $mail->SetFrom('no-reply@MailToEamil');
   $mail->Subject = 'New Package';
 
