@@ -24,13 +24,11 @@
     <table style="width:100%">
       <tr>
         <td><form name="admin" action="admin.php" method="post" onsubmit="return formALogin()">
-          <fieldset>
-          <lable><h3>Employee Login</h3></lable><br><br>
+          <h3>Employee Login</h3></lable><br><br>
           <lable>Username:&nbsp</label><input type="text" name="aUser" value="" required><br><br>
           <lable>Password:&nbsp</label><input type="password" name="apassword" value="" required><br><br>
           <input type="submit" name="alogin" value="Login">
           <input type="reset" name="areset" value="Cancel">
-        </fieldset>
         </form></td>
       </tr>
 
