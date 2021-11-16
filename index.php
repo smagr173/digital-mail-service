@@ -13,16 +13,10 @@
     }
     </script>
    <body>
-     <table style="width:100%" id="layout">
-       <tr>
-         <th class="title">Mail To Email</th>
-      </tr>
-      <tr>
-    </table>
     <table style="width:100%">
       <tr>
         <td><form name="admin" action="admin.php" method="post" onsubmit="return formALogin()">
-          <h3>Employee Login</h3></lable><br><br>
+          <h3>Employee Login</h3>
           <input type="text" name="aUser" value="" required><br><br>
           <input type="password" name="apassword" value="" required><br><br>
           <input type="submit" name="alogin" value="Login">
