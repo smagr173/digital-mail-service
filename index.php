@@ -21,11 +21,5 @@
           <input type="password" name="apassword" value="" required><br><br>
           <input type="submit" name="alogin" value="Login">
           <input type="reset" name="areset" value="Cancel">
-        </form></td>
-      </tr>
 
-    </table>
-
-   </body>
-</html>
 
